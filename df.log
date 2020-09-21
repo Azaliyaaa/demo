@@ -1,0 +1,34 @@
+Файл.система   Размер Использовано  Дост Использовано% Cмонтировано в
+udev             967M            0  967M            0% /dev
+tmpfs            199M         1,4M  198M            1% /run
+/dev/sda5         39G         8,4G   29G           23% /
+tmpfs            994M          52M  943M            6% /dev/shm
+tmpfs            5,0M         4,0K  5,0M            1% /run/lock
+tmpfs            994M            0  994M            0% /sys/fs/cgroup
+/dev/loop1       256M         256M     0          100% /snap/gnome-3-34-1804/36
+/dev/loop0        55M          55M     0          100% /snap/core18/1880
+/dev/loop3        30M          30M     0          100% /snap/snapd/8542
+/dev/loop2        50M          50M     0          100% /snap/snap-store/467
+/dev/loop4        63M          63M     0          100% /snap/gtk-common-themes/1506
+/dev/sda1        511M         4,0K  511M            1% /boot/efi
+tmpfs            199M          72K  199M            1% /run/user/1000
+/dev/sr0          59M          59M     0          100% /media/azaliya/VBox_GAs_6.1.14
+/dev/loop5        56M          56M     0          100% /snap/core18/1885
+/dev/loop6        31M          31M     0          100% /snap/snapd/9279
+Файл.система   Размер Использовано  Дост Использовано% Cмонтировано в
+udev             967M            0  967M            0% /dev
+tmpfs            199M         1,4M  198M            1% /run
+/dev/sda5         39G         8,4G   29G           23% /
+tmpfs            994M          52M  943M            6% /dev/shm
+tmpfs            5,0M         4,0K  5,0M            1% /run/lock
+tmpfs            994M            0  994M            0% /sys/fs/cgroup
+/dev/loop1       256M         256M     0          100% /snap/gnome-3-34-1804/36
+/dev/loop0        55M          55M     0          100% /snap/core18/1880
+/dev/loop3        30M          30M     0          100% /snap/snapd/8542
+/dev/loop2        50M          50M     0          100% /snap/snap-store/467
+/dev/loop4        63M          63M     0          100% /snap/gtk-common-themes/1506
+/dev/sda1        511M         4,0K  511M            1% /boot/efi
+tmpfs            199M          72K  199M            1% /run/user/1000
+/dev/sr0          59M          59M     0          100% /media/azaliya/VBox_GAs_6.1.14
+/dev/loop5        56M          56M     0          100% /snap/core18/1885
+/dev/loop6        31M          31M     0          100% /snap/snapd/9279
